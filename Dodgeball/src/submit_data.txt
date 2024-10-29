@@ -1,0 +1,7 @@
+dodge-2
+ads24-dj3185
+5H9Eb8UqXt4VLtiY
+
+This file contains the Task ID, username and password
+last used when submitting a solution.
+This file is used when you call Submit.submit() with no arguments.
